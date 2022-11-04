@@ -14,5 +14,10 @@ Implementation of a LED matrix control.
 Four LED-Matrix with each 8x32 pixel
 Each matrix with 256 pixels, all together 1024 pixel.
 
+
+Schematic diagram KiCad:
+![image](https://user-images.githubusercontent.com/96622339/199925660-7fcb2861-dcdf-4494-9859-d4e9ebbcec84.png)
+
+
 Disclaimer:  
 This hardware/software is provided "as is", and you use the hardware/software at your own risk. Under no circumstances shall any author be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this hardware/software, even if the authors have been advised of the possibility of such damages
